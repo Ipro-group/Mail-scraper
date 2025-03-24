@@ -1,4 +1,4 @@
-document.getElementById('menu-toggle').addEventListener('click', function() {
+/*document.getElementById('menu-toggle').addEventListener('click', function() {
     document.getElementById('sidebar').classList.toggle('active');
 });
 
@@ -13,4 +13,4 @@ document.getElementById('auth-form').addEventListener('submit', function(event) 
             window.location.href = 'subscription.html';
         }, 2000);
     }
-});
+});*/
